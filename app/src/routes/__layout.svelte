@@ -12,7 +12,7 @@
     const {content: banner_v1} = content_Banner_v1
 </script>
 
-<Banner_v1 {...banner_v1}/>
+<!--<Banner_v1 {...banner_v1}/>-->
 <Header_v1 {...header_v1}/>
 <Header_v2 {...header_v2}/>
 <main>

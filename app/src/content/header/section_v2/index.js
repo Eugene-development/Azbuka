@@ -1,4 +1,4 @@
-const logo = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/5.png'
+const logo = 'https://storage.yandexcloud.net/brand-logo/azbuka-komforta/logo/logo2.png'
 const menu = [
     {
         value: 'Главная',
