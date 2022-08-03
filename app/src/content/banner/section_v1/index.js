@@ -7,15 +7,11 @@ const link = {
     path: '#'
 };
 
-const content_Banner_v1 = {
+const content = {
     text,
     link
 };
 
-export const GET = () => {
-    return {
-        body: {
-            content_Banner_v1
-        }
-    };
+export const content_Banner_v1 = {
+    content
 };
