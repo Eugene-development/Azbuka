@@ -1,41 +1,41 @@
-const phone = '+7 (495) 147-55-50';
+const phone = '+7 (930) 671-14-55';
 const email = 'indexpro24@gmail.com';
 
 const menu = [
 	{
 		value: 'Замер',
-		path: 'zamer'
+		path: 'information/zamer'
 	},
 	{
 		value: 'Проект',
-		path: 'proekt'
+		path: 'information/proekt'
 	},
 	{
 		value: 'Оплата',
-		path: 'oplata'
+		path: 'information/oplata'
 	},
 	{
 		value: 'Доставка',
-		path: 'dostavka'
+		path: 'information/dostavka'
 	},
 	{
 		value: 'Подъём',
-		path: 'podem'
+		path: 'information/podem'
 	},
 	{
 		value: 'Установка',
-		path: 'ustanovka'
+		path: 'information/ustanovka'
 	},
 	{
 		value: 'Гарантии',
-		path: 'garantii'
+		path: 'information/garantii'
 	},
 ];
 
 const content = {
-	menu,
 	phone,
-	email
+	email,
+	menu
 };
 
 export const content_Header_v1 = {
