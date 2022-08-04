@@ -32,71 +32,60 @@ const contentMain_v1 = {
 };
 
 
-
-const title = 'Lorem ipsum dolor sit amet';
-const description =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!';
-
-const img_1 =
-    'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg';
-const alt_1 = '';
-const img_2 = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/shkaf.jpeg';
-const alt_2 = '';
-
 const benefits_1 = [
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+        value: 'Дизайн-проект гарнитура'
     },
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+        value: 'Столешницы постформинг или жидкий камень'
     },
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+        value: 'Высоту навесных ящиков под потолок'
     },
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
-    }
+        value: 'Монтаж и подключение встраиваемой техники'
+    },
+    {
+        value: 'Подвеска навесных шкафов на шину или уголки'
+    },
+    {
+        value: 'Стеновые панели с фотопечатью из закалённого стекла'
+    },
 ];
 
 const benefits_2 = [
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+        value: 'Дизайн-проект шкафа'
     },
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+        value: 'Нижнеопорная или подвесная система направляющих'
     },
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+        value: 'Втраиваемую или корпусную структуру каркаса'
     },
     {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
-    }
+        value: '4-х шарнирные петли для регулирования дверок'
+    },
+    {
+        value: 'Сетчатые корзины или ящики на направляющих'
+    },
+    {
+        value: 'Фотопечать или пескоструйные рисунки на дверях'
+    },
 ];
 
 const contentMarketing_v1 = {
-    img_1,
-    alt_1,
-    img_2,
-    alt_2,
-    title,
-    description,
+    img_1: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg',
+    alt_1: 'Кухонный гарнитур на заказ в Нижнем Новгороде',
+    img_2: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/shkaf.jpeg',
+    alt_2: 'Шкаф купе на заказ в Нижнем Новгороде',
+    title: 'Мебель на заказ от ведущих производителей',
+    description : 'Мы сотрудничаем только с проверенными производителями корпусной мебели, дающие гарантии качества и адекватные цены.',
     benefits_1,
     benefits_2
 };
 
 
-
-const title_Blog_v1 = 'Lorem ipsum dolor sit amet';
-const description_Blog_v1 =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!';
 
 const posts_Blog_v1 = [
     {
@@ -137,24 +126,18 @@ const posts_Blog_v1 = [
     }
 ];
 const contentBlog_v1 = {
-    title_Blog_v1,
-    description_Blog_v1,
+    title_Blog_v1: 'Последние статьи нашего блога',
+    description_Blog_v1: 'Интересные статьи о тенденциях, материалах, компаниях и в целом о мебельной индустрии в нашей стране и за рубежом',
     posts_Blog_v1
 };
 
 
-const title_Marketing_v2 = 'Вы производитель корпусной мебели?';
-const description_Marketing_v2 = 'Если вы заинтересованы в продвижении ваших услуг и/или продукции в нашем регионе и гарантируете качество и конкурентную цену, то ждём от вас взимовыгодных предложений о сотрудничестве.';
-const img_Marketing_v2 = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV2/partner.jpeg';
-const alt_Marketing_v2 = '';
-const link_Marketing_v2 = 'contacts';
-
 const contentMarketing_v2 = {
-    title_Marketing_v2,
-    description_Marketing_v2,
-    img_Marketing_v2,
-    alt_Marketing_v2,
-    link_Marketing_v2
+    title_Marketing_v2: 'Вы производитель корпусной мебели?',
+    description_Marketing_v2: 'Если вы заинтересованы в продвижении ваших услуг и/или продукции в нашем регионе и гарантируете качество и конкурентную цену, то ждём от вас взимовыгодных предложений о сотрудничестве.',
+    img_Marketing_v2: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV2/partner.jpeg',
+    alt_Marketing_v2: '',
+    link_Marketing_v2: 'contacts'
 };
 
 
