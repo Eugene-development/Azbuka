@@ -1,4 +1,4 @@
-const title = 'Шкафы купе в Нижнем Новгороде';
+const title = 'Шкафы купе';
 const description = 'Ознакомьтесь с нашими вариантами шкафов купе на заказ по доступным ценам';
 const pathImg = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
