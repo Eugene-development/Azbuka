@@ -1,5 +1,5 @@
 const title = 'Кухни в Нижнем Новгороде';
-const description = 'Кухонные гарнитуры в Нижнем Новгороде. Дизайн проект в подарок.';
+const description = 'Кухонные гарнитуры на заказ под ваши размеры. Дизайн проект в подарок.';
 const pathImg =
     'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/kitchens/4.jpg';
 
