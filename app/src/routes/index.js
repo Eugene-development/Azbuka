@@ -92,7 +92,7 @@ const posts_Blog_v1 = [
         id: '#',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg',
         alt: '',
-        title: 'From the blog\n',
+        title: 'From the blog',
         description:
             'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed',
         avatar:
@@ -126,8 +126,8 @@ const posts_Blog_v1 = [
     }
 ];
 const contentBlog_v1 = {
-    title_Blog_v1: 'Последние статьи нашего блога',
-    description_Blog_v1: 'Интересные статьи о тенденциях, материалах, компаниях и в целом о мебельной индустрии в нашей стране и за рубежом',
+    title_Blog_v1: 'Статьи нашего блога',
+    description_Blog_v1: 'Интересные посты о тенденциях, материалах, компаниях и в целом о мебельной индустрии в нашей стране и за рубежом',
     posts_Blog_v1
 };
 
