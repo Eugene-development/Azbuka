@@ -89,40 +89,34 @@ const contentMarketing_v1 = {
 
 const posts_Blog_v1 = [
     {
-        id: '#',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg',
-        alt: '',
-        title: 'From the blog',
-        description:
-            'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed',
-        avatar:
-            'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-        author: 'Roel Aufderehar',
-        date: 'Mar 16, 2020'
+        id: 1,
+        img: "https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg",
+        alt: "",
+        title: "Как правильно выбрать шкаф купе для спальни",
+        description: "Помимо удобной кровати или трельяжа в спальной комнате неизменно присутствуют и другие предметы мебели таки...",
+        avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        author: "Евгений Че",
+        date: "10 Мая, 2022"
     },
     {
-        id: '#',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg',
-        alt: '',
-        title: 'From the blog\n',
-        description:
-            'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed',
-        avatar:
-            'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-        author: 'Roel Aufderehar',
-        date: 'Mar 16, 2020'
+        id: 2,
+        img: "https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg",
+        alt: "",
+        title: "Современный кухонный гарнитур на заказ",
+        description: "Кухня в любом доме или квартире является олицетворением домашнего очага и уюта. Это объясняет тот факт, что...",
+        avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        author: "Евгений Че",
+        date: "12 июня, 2022"
     },
     {
-        id: '#',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg',
-        alt: '',
-        title: 'From the blog\n',
-        description:
-            'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed',
-        avatar:
-            'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-        author: 'Roel Aufderehar',
-        date: 'Mar 16, 2020'
+        id: 3,
+        img: "https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg",
+        alt: "",
+        title: "Шкафы купе с фотопечатью на стекле",
+        description: "Компании зачастую предлагают вам изготовление шкафов-купе и встроенных шкафов с дверками с фотопечатью. Это...",
+        avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        author: "Евгений Че",
+        date: "6 июля, 2022"
     }
 ];
 const contentBlog_v1 = {
