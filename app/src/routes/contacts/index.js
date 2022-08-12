@@ -1,4 +1,4 @@
-const address = 'Нижний Новгород, Гордеевская 7, ТЦ "Мебельный Базар"'
+const address = 'Нижний Новгород, Гордеевская 7'
 const phones = [
     {
         phone: '8 (930) 671-14-55',
@@ -11,7 +11,22 @@ const emails = [
     }
 ];
 
+
+
+const apiMail = import.meta.env.VITE_API_MAIL
+const apiToken = import.meta.env.VITE_TOKEN
+
+const header = 'Отправить запрос или коммерческое предложение:';
+
+const contentForm_v2 = {
+    apiMail,
+    apiToken,
+    header
+};
+
+
 const content_Contact_v1 = {
+    contentForm_v2,
     address,
     phones,
     emails
