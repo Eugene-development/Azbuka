@@ -1,7 +1,7 @@
 import {posts_Blog_v1, title_Blog_v1, description_Blog_v1} from "./index.json"
 
-const title = 'Блог';
-const description = 'Ознакомьтесь с интересными статьями по мебельной тематике';
+const title = 'Мебельный блог';
+const description = 'Ознакомьтесь с интересными статьями по мебельной тематике.';
 const pathImg =
     'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
