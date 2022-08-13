@@ -2,6 +2,8 @@
 	"name": "app",
 	"version": "0.0.1",
 	"scripts": {
+		"start": "concurrently \"npm run dev\" \"npm run server\"",
+		"server": "json-graphql-server db.js --p 4000",
 		"dev": "vite dev",
 		"build": "vite build",
 		"package": "svelte-kit package",
@@ -37,6 +39,7 @@
 		"@tailwindcss/aspect-ratio": "^0.4.0",
 		"@tailwindcss/forms": "^0.5.2",
 		"@tailwindcss/typography": "^0.5.4",
+		"concurrently": "^7.3.0",
 		"symax": "latest"
 	}
 }
