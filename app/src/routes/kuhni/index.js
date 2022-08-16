@@ -58,9 +58,9 @@ const types = [
         link: 'kuhni/plastic'
     },
     {
-        title: 'Встроенные',
-        description: 'Встроенные кухонные гарнитуры от пола до потолка',
-        link: 'kuhni/vstroenie'
+        title: 'Эконом',
+        description: 'Варианты кухонных гарнитуров по низким ценам',
+        link: 'kuhni/econom'
     },
     {
         title: 'Модульные',
