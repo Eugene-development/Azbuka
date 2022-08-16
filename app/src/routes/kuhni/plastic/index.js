@@ -8,46 +8,40 @@ const content_Header_v3 = {
     pathImg
 };
 
-
-
-
-
-
-
 const mainText = {
-    titleCategory: 'Niwoo werogjwoeirg',
-    descriptionCategory: 'ититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштш'
+    titleCategory: 'Заголовок',
+    descriptionCategory: 'текст'
 };
 
 const dataProduct = [
     {
-        name: 'Атлас',
+        name: 'Гардения',
         text: '2700/1400х2300х600',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/3.jpg',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/gardenia.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
+        name: 'Модерн',
         text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/5.jpg',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/modern.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
+        name: 'Натали',
         text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/6.jpg',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/natali.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
+        name: 'Скарлет',
         text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/7.jpg',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/scarlet.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
+        name: 'Капучино',
         text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/9.JPG',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/kapuchino.jpeg',
         alt: ''
     }
 ];
