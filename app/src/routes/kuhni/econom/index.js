@@ -16,35 +16,173 @@ const mainText = {
 
 const dataProduct = [
     {
-        name: 'Атлас',
-        text: '2700/1400х2300х600',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/3.jpg',
+        name: 'Аделина',
+        text: '2500/3000х2300х600',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/adelina.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/5.jpg',
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/aria.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/6.jpg',
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/astra.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/7.jpg',
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/beluchi.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/9.JPG',
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/chikago.jpeg',
         alt: ''
-    }
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/diva.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/domino.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/elena.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/elina.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/evelina.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/gardenia.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/iasmina.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/kapuchino.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/laguna.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/liana.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/liza.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/maria.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/marsel.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/milena.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/modern.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/natali.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/praga.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/primula.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/riana.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/scarlet.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/tifani.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/zheneva.jpeg',
+        alt: ''
+    },
+    {
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/zolushka.jpeg',
+        alt: ''
+    },
 ];
 
 const content_Marketing_v4 = {

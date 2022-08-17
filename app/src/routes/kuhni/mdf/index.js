@@ -26,6 +26,12 @@ const dataProduct = [
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/astra.jpeg',
         alt: ''
     },
+    {
+        name: 'Елена',
+        text: 'размер',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/elina.jpeg',
+        alt: ''
+    },
 ];
 
 const content_Marketing_v4 = {
