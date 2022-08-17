@@ -10,8 +10,8 @@ const content_Header_v3 = {
 
 
 const mainText = {
-    titleCategory: 'Niwoo werogjwoeirg',
-    descriptionCategory: 'ититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштш'
+    titleCategory: '',
+    descriptionCategory: ''
 };
 
 const dataProduct = [
@@ -22,163 +22,163 @@ const dataProduct = [
         alt: ''
     },
     {
-        name: '',
+        name: 'Ария',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/aria.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Астра',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/astra.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Белуччи',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/beluchi.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Чикаго',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/chikago.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Дива',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/diva.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Домино',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/domino.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Елена',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/elena.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Элина',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/elina.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Эвелина',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/evelina.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Гардения',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/gardenia.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Ясмина',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/iasmina.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Капучино',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/kapuchino.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Лагуна',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/laguna.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Лиана',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/liana.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Лиза',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/liza.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Мария',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/maria.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Марсель',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/marsel.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Милена',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/milena.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Модерн',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/modern.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Натали',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/natali.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Прага',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/praga.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Примула',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/primula.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Рианна',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/riana.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Скарлет',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/scarlet.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Тифани',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/tifani.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Женева',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/zheneva.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Золушка',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/zolushka.jpeg',
         alt: ''
