@@ -27,12 +27,6 @@ const dataProduct = [
         alt: ''
     },
     {
-        name: 'Белуччи',
-        text: '2500/1500х2150х600/320',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/beluchi.jpeg',
-        alt: ''
-    },
-    {
         name: 'Элина',
         text: '2000/2500х2200х600/320',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/kuhni/elina.jpeg',
