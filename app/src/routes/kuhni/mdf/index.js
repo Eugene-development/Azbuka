@@ -9,7 +9,7 @@ const content_Header_v3 = {
 };
 
 const mainText = {
-    titleCategory: 'Заголовок',
+    titleCategory: 'МДФ',
     descriptionCategory: 'текст'
 };
 
