@@ -21,235 +21,235 @@ const mainText = {
 
 const dataProduct = [
     {
-        name: '',
+        name: 'Агат',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/agat.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Алмандин',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/almandin.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Азурит',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/azurit.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Чароит',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/charoit.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Челси',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/chelsi.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Цитрон',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/citron.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Фикус',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/ficus.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Фиеста',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/fiesta.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Геометрия',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/geometria.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Гиалит',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/gialit.webp',
         alt: ''
     },
     {
-        name: '',
+        name: 'Халцедон',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/halcedon.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Ирис',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/iris.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Калипсо',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/kalipso.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Комфорт-10',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/komfort-10.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Комфорт-2',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/komfort-2.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Комфорт-4',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/komfort-4.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Комфорт-6',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/komfort-6.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Коралл',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/korall.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Лагуна',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/laguna-2.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Люкс-10',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/luks-10.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Люкс-2',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/luks-2.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Люкс-3',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/luks-3.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Марианна',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/mariana.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Маркель',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/markel.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Мимоза',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/mimosa.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Нарцисс',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/narciss.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Паскаль',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/pascal.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Санди',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/sandi.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Шкаф-1',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/shkaf-1.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Лотос',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/shkaffoto-1.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Мимоза',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/shkaffoto-2.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Топаз',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/topaz.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Трио',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/trio.webp',
         alt: ''
     },
     {
-        name: '',
+        name: 'Турмалин',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/turmalin.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Юнона',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/unona.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Венеция',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/venecia.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Венера',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/venera.jpeg',
         alt: ''
     },
     {
-        name: '',
+        name: 'Верделит',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/verdelit.webp',
         alt: ''
     },
     {
-        name: '',
+        name: 'Жасмин',
         text: '',
         img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/zhasmin.jpeg',
         alt: ''
