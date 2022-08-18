@@ -15,41 +15,17 @@ const content_Header_v3 = {
 
 
 const mainText = {
-    titleCategory: 'Niwoo werogjwoeirg',
-    descriptionCategory: 'ититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштш'
+    titleCategory: 'Двери',
+    descriptionCategory: 'текст'
 };
 
 const dataProduct = [
     {
-        name: 'Атлас',
-        text: '2700/1400х2300х600',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/3.jpg',
+        name: '',
+        text: '',
+        img: 'https://storage.yandexcloud.net/brand-logo/',
         alt: ''
     },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/5.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/6.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/7.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/9.JPG',
-        alt: ''
-    }
 ];
 
 const content_Marketing_v4 = {
