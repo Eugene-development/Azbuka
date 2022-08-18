@@ -1,5 +1,5 @@
-const title = 'Встроенные кухонные гарнитуры';
-const description = 'Ознакомьтесь с нашими вариантами встроенных кухонных гарнитуров';
+const title = 'Кухонные гарнитуры эконом';
+const description = 'Ознакомьтесь с нашими вариантами кухонных гарнитуров серии эконом';
 const pathImg = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
 const content_Header_v3 = {
@@ -7,7 +7,6 @@ const content_Header_v3 = {
     description,
     pathImg
 };
-
 
 const mainText = {
     titleCategory: '',
