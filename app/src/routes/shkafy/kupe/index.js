@@ -2,21 +2,22 @@ const title = 'Шкафы купе';
 const description = 'Ознакомьтесь с нашими вариантами шкафов купе на заказ по доступным ценам';
 const pathImg = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
+const parentPage = 'Шкафы'
+const parentPageLink = '/shkafy'
+const currentPage = 'Купе'
+
 const content_Header_v3 = {
+    parentPage,
+    parentPageLink,
+    currentPage,
     title,
     description,
     pathImg
 };
 
-
-
-
-
-
-
 const mainText = {
-    titleCategory: 'Niwoo werogjwoeirg',
-    descriptionCategory: 'ититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштшититититит лтлотщ иолтолтшотшо итшотшотшотшотштштштш'
+    titleCategory: 'Купе',
+    descriptionCategory: 'текст'
 };
 
 const dataProduct = [

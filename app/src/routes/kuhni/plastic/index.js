@@ -2,7 +2,14 @@ const title = 'Кухонные гарнитуры из пластика';
 const description = 'Ознакомьтесь с нашими вариантами кухонных гарнитуров с фасадами из пластика';
 const pathImg = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
+const parentPage = 'Кухни'
+const parentPageLink = '/kuhni'
+const currentPage = 'Пластик'
+
 const content_Header_v3 = {
+    parentPage,
+    parentPageLink,
+    currentPage,
     title,
     description,
     pathImg

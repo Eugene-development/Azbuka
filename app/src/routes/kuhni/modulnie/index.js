@@ -2,7 +2,14 @@ const title = 'Модульные кухонные гарнитуры';
 const description = 'Ознакомьтесь с нашими вариантами модульных кухонных гарнитуров';
 const pathImg = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
+const parentPage = 'Кухни'
+const parentPageLink = '/kuhni'
+const currentPage = 'Модульные'
+
 const content_Header_v3 = {
+    parentPage,
+    parentPageLink,
+    currentPage,
     title,
     description,
     pathImg

@@ -2,17 +2,18 @@ const title = 'Двери купе';
 const description = 'Ознакомьтесь с нашими вариантами дверей купе для ниш помещений';
 const pathImg = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
+const parentPage = 'Шкафы'
+const parentPageLink = '/shkafy'
+const currentPage = 'Двери'
+
 const content_Header_v3 = {
+    parentPage,
+    parentPageLink,
+    currentPage,
     title,
     description,
     pathImg
 };
-
-
-
-
-
-
 
 const mainText = {
     titleCategory: 'Двери',
