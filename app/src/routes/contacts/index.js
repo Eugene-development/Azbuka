@@ -33,12 +33,16 @@ const content_Contact_v1 = {
 };
 
 
+const currentPage = 'Контакты'
+
+
 const title = 'Контакты';
 const description = 'Связаться с нами вы можете по почте, телефону или через чат.';
 const pathImg =
     'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
 const content_Header_v3 = {
+    currentPage,
     title,
     description,
     pathImg

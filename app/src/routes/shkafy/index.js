@@ -3,7 +3,10 @@ const description = 'Шкафы на заказ для вашей комнаты
 const pathImg =
     'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/1.jpg';
 
+const currentPage = 'Шкафы'
+
 const content_Header_v3 = {
+    currentPage,
     title,
     description,
     pathImg

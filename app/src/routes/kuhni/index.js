@@ -3,7 +3,10 @@ const description = 'Кухонные гарнитуры на заказ под 
 const pathImg =
     'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/kitchens/4.jpg';
 
+const currentPage = 'Кухни'
+
 const content_Header_v3 = {
+    currentPage,
     title,
     description,
     pathImg
