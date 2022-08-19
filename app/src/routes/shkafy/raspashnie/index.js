@@ -22,35 +22,41 @@ const mainText = {
 
 const dataProduct = [
     {
-        name: 'Атлас',
-        text: '2700/1400х2300х600',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/3.jpg',
+        name: 'Чароит',
+        text: '1600х2400х520',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/charoit.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/5.jpg',
+        name: 'Цитрон',
+        text: '1200х2150х600',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/citron.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/6.jpg',
+        name: 'Фиеста',
+        text: '1200х2150х520',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/fiesta.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/7.jpg',
+        name: 'Халцедон',
+        text: '1600х2200х550',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/halcedon.jpeg',
         alt: ''
     },
     {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/9.JPG',
+        name: 'Маркель',
+        text: '2000/1600х2300х600',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/markel.jpeg',
         alt: ''
-    }
+    },
+    {
+        name: 'Паскаль',
+        text: '800х2200х500',
+        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV4/shkafi/pascal.jpeg',
+        alt: ''
+    },
 ];
 
 const content_Marketing_v4 = {

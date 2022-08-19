@@ -21,36 +21,6 @@ const mainText = {
 };
 
 const dataProduct = [
-    {
-        name: 'Атлас',
-        text: '2700/1400х2300х600',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/3.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/5.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/6.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/7.jpg',
-        alt: ''
-    },
-    {
-        name: 'Дзержинск',
-        text: 'mf;dv,,vlpew',
-        img: 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV5/cabinets/9.JPG',
-        alt: ''
-    }
 ];
 
 const content_Marketing_v4 = {
