@@ -29,7 +29,7 @@ const menu = [
 	{
 		value: 'Гарантии',
 		path: 'information/garantii'
-	},
+	}
 ];
 
 const content = {

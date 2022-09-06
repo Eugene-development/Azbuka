@@ -54,17 +54,16 @@ const textHTML = `
                 </div>
             </div>
         </div>
-`
+`;
 
 const contentArticle_v2 = {
-    textHTML,
+	textHTML
 };
 
-
 export const GET = () => {
-    return {
-        body: {
-            contentArticle_v2
-        }
-    }
-}
+	return {
+		body: {
+			contentArticle_v2
+		}
+	};
+};
